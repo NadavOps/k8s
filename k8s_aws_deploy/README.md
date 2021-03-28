@@ -7,7 +7,8 @@ to run this project create terraform.tfvars file with:
 ```
 aws_provider_main_region = <region of choise>
 aws_credentials_profile  = <creds profile name>
-public_key = <the public key itself>
+private_key_name = <the private key file name>
+public_key = <the public key string itself>
 ```
 
 
