@@ -16,5 +16,5 @@ variable "public_key" {
 variable "private_key_name" {
   description = "The private key name to connect with"
   type        = string
-  default = "compromised_key"
+  default     = "compromised_key"
 }

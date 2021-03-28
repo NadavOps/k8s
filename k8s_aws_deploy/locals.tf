@@ -4,7 +4,7 @@ locals {
   }
 
   assets_path = {
-    iam = "./assets/iam"
+    iam       = "./assets/iam"
     user_data = "./assets/user_data_scripts"
   }
 
